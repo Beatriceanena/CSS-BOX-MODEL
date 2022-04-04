@@ -1,30 +1,30 @@
-.wrapper{
-    top: 20%;
-    left: 20%;
-    position: absolute;
+#wrapper{
+    margin-top: 200px;
+   margin-left: 190px;
 }
 .box-1{
-    width: 160%;
-    padding:80px;
-    outline: 3px solid rgb(156, 114, 135);
-    background-color: rgb(235, 52, 204);  
+    width: 70%;
+    padding:40px;
+    outline: 10px dotted #532C33 ;
+    background-color: #A75867;  
 }
 .box-2{
-    width: 80%;
-    padding: 60px;
-    outline:3px solid rgb(148, 79, 102) ;
-    background-color: rgb(228, 19, 88);
+    width: 85%;
+    padding: 50px;
+    outline:10px dotted #3b806e ;
+    background-color: #BF8691;
     
     
 }
 .box-3{
     width:90%;
-    padding:25px;
-    outline:3px solid rgb(82, 1, 28) ;
-     background-color: rgb(128, 22, 101);
+    padding:30px;
+    outline:10px dotted rgb(82, 1, 28) ;
+     background-color: #DDBEC4;
 }
 .box-3 p{
     margin-left: 20px;
     text-align: center;
     padding-left: 10px;
+    font-size: 20px;
 }

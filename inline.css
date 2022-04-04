@@ -1,0 +1,32 @@
+p{
+    border: 2px solid red;
+    padding:5%;
+
+}
+span{
+    border: 2px solid red;
+    padding: 2%;
+}
+form{
+    border: solid 2px red;
+    padding: 3%;
+}
+label {
+    border: solid 3px green;
+    margin:2%;
+}
+.header{
+    color: blue;
+}
+.form-one{
+border: solid 3px green;
+}
+.form-one label{
+    font-style:italic;
+}
+.forms{
+    padding:5px;
+}
+#heading1{
+    color: red;
+}
