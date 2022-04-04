@@ -1,0 +1,30 @@
+.wrapper{
+    top: 20%;
+    left: 20%;
+    position: absolute;
+}
+.box-1{
+    width: 160%;
+    padding:80px;
+    outline: 3px solid rgb(156, 114, 135);
+    background-color: rgb(235, 52, 204);  
+}
+.box-2{
+    width: 80%;
+    padding: 60px;
+    outline:3px solid rgb(148, 79, 102) ;
+    background-color: rgb(228, 19, 88);
+    
+    
+}
+.box-3{
+    width:90%;
+    padding:25px;
+    outline:3px solid rgb(82, 1, 28) ;
+     background-color: rgb(128, 22, 101);
+}
+.box-3 p{
+    margin-left: 20px;
+    text-align: center;
+    padding-left: 10px;
+}
